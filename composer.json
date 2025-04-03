@@ -2,6 +2,13 @@
     "name": "kozsuper/table-views",
     "description": "A simple table views package for Laravel",
     "version": "1.0.0",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "filament",
+        "table-views"
+    ],
+    "license": "MIT",
     "authors": [
         {
             "name": "KozSuper",
