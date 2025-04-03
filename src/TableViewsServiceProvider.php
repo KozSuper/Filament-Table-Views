@@ -59,7 +59,7 @@ class TableViewsServiceProvider extends PackageServiceProvider
         );
 
         FilamentView::registerRenderHook(
-            TablesRenderHook::TOOLBAR_SEARCH_BEFORE,
+            TablesRenderHook::TOOLBAR_SEARCH_AFTER,
             fn(): View => view('table-views::filament.tables.table-views'),
         );
     }
