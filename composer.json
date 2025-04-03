@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "KozSuper\\TableViews\\Providers\\TableViewsServiceProvider"
+                "KozSuper\\TableViews\\TableViewsServiceProvider"
             ],
             "aliases": {}
         }
