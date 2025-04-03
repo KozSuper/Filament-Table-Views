@@ -62,4 +62,8 @@ php artisan vendor:publish --provider="KozSuper\TableViews\TableViewsServiceProv
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information. 
+This package is open-sourced software licensed under the [MIT License](LICENSE.md).
+
+### Attribution
+
+This package is based on the Table Views module from [AureusERP](https://github.com/aureuserp/aureuserp), which is also licensed under the MIT License. 
