@@ -38,20 +38,13 @@ composer require kozsuper/table-views
 ```
 
 ## Usage
-
-1. Publish the service provider:
-
-```bash
-php artisan vendor:publish --provider="KozSuper\TableViews\TableViewsServiceProvider"
-```
-
-2. Run migrations:
+1. Run migrations:
 
 ```bash
 php artisan migrate
 ```
 
-3. Use the trait in your Filament resources:
+2. Use the trait in your Filament resources:
 
 ```php
 use KozSuper\TableViews\Filament\Concerns\HasTableViews;
