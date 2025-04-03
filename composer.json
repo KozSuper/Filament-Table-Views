@@ -1,6 +1,6 @@
 {
     "name": "kozsuper/table-views",
-    "description": "A simple table views package for Laravel",
+    "description": "A powerful table views package for Laravel Filament",
     "version": "1.0.0",
     "type": "library",
     "keywords": [
