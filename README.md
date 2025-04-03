@@ -12,7 +12,7 @@ You can experience the Table Views module in action on the official AureusERP de
 
 ## Screenshots
 
-![Mô tả ảnh](docs/images/tên-ảnh.png)
+![Mô tả ảnh](docs/images/demo.JPG)
 
 ## Features
 
