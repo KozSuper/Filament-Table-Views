@@ -2,6 +2,18 @@
 
 A powerful package for managing table views in Laravel Filament applications.
 
+> This package is originally developed by [AureusERP](https://github.com/aureuserp/aureuserp) and modified for standalone usage.
+
+## Live Demo
+
+You can experience the Table Views module in action on the official AureusERP demo site:
+
+- [AureusERP Demo](https://demo.aureuserp.com/)
+
+## Screenshots
+
+![Mô tả ảnh](docs/images/tên-ảnh.png)
+
 ## Features
 
 - Create and manage custom table views
