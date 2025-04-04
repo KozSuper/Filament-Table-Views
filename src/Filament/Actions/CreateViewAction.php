@@ -40,7 +40,7 @@ class CreateViewAction extends Action
                             'warning' => __('table-views::filament/actions/create-view.form.options.warning'),
                         ])->mapWithKeys(function ($value, $key) {
                             return [
-                                $key => '<div class="flex items-center gap-4"><span class="flex h-5 w-5 rounded-full" style="background: rgb(var(--' . $key . '-500))"></span> ' . $value . '</span>',
+                                $key => '<div class="flex items-center gap-4"><span class="flex h-4 w-4 rounded-full" style="background: rgb(var(--' . $key . '-500))"></span> ' . $value . '</span>',
                             ];
                         });
                     })

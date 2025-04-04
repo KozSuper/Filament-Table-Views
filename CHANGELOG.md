@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to `kozsuper/table-views` will be documented in this file.
+All notable changes to `kozsuper/filament-table-views` will be documented in this file.
 
 ## [1.0.0] - 2024-03-21
 

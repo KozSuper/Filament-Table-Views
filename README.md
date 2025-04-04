@@ -34,7 +34,13 @@ You can experience the Table Views module in action on the official AureusERP de
 You can install the package via composer:
 
 ```bash
-composer require kozsuper/table-views
+composer require kozsuper/filament-table-views
+```
+
+Publish the migrations:
+
+```bash
+php artisan vendor:publish --tag=table-views-migrations
 ```
 
 ## Usage
@@ -71,4 +77,4 @@ This package is open-sourced software licensed under the [MIT License](LICENSE.m
 
 ### Attribution
 
-This package is based on the Table Views module from [AureusERP](https://github.com/aureuserp/aureuserp), which is also licensed under the MIT License. 
+This package is based on the Table Views module from [AureusERP](https://github.com/aureuserp/aureuserp), which is also licensed under the MIT License.
